@@ -1,4 +1,4 @@
-package com.crud.tasks.mapper;
+package com.crud.tasks.trello.mapper;
 
 import com.crud.tasks.domain.*;
 import org.springframework.stereotype.Component;
